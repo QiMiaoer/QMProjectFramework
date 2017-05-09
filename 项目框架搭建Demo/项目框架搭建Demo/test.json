@@ -1,0 +1,45 @@
+[
+  {
+    "title" : "首页",
+    "imageName" : "homepage",
+    "clsName" : "HomeViewController",
+    "visitorInfo" : {
+      "rotateImageName" : "homepage_selected",
+      "text" : "首页访客视图",
+      "imageName" : "homepage"
+    }
+  },
+  {
+    "title" : "消息",
+    "imageName" : "message",
+    "clsName" : "MessageViewController",
+    "visitorInfo" : {
+      "rotateImageName" : "message_selected",
+      "text" : "消息访客视图",
+      "imageName" : "message"
+    }
+  },
+  {
+    "clsName" : "UIViewController"
+  },
+  {
+    "title" : "发现",
+    "imageName" : "discover",
+    "clsName" : "DiscorverViewController",
+    "visitorInfo" : {
+      "rotateImageName" : "discover_selected",
+      "text" : "发现访客视图",
+      "imageName" : "discover"
+    }
+  },
+  {
+    "title" : "我的",
+    "imageName" : "profile",
+    "clsName" : "ProfileViewController",
+    "visitorInfo" : {
+      "rotateImageName" : "profile_selected",
+      "text" : "我的访客视图",
+      "imageName" : "profile"
+    }
+  }
+]
